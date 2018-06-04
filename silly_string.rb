@@ -3,13 +3,13 @@
 
 your_favorite_word = "robots"
 
-puts "#{your_favorite_word}" 
+puts "#{your_favorite_word}" .capitalize
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
 favorite_word_in_all_caps = your_favorite_word # Put a . after your_favorite word and use a String method.
 
-puts "#{favorite_word_in_all_caps}" .capitalize
+puts "#{favorite_word_in_all_caps}" .upcase
 
 # Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
 
