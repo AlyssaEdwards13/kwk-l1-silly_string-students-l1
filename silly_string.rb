@@ -3,7 +3,7 @@
 
 your_favorite_word = "robots"
 
-puts "#{your_favorite_word}"
+puts "#{your_favorite_word}" .upcase
 
 # Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
 
