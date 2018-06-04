@@ -1,1 +1,1 @@
-puts "Hello World!" .capitalize
+puts "Hello World!" .swapcase
