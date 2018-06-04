@@ -48,4 +48,4 @@ sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples 
 
 sentence = sentence # Add your gsub chain here
 
-puts "Ostounding oordvorks, orguobly on oncient onimal, olways ote opples ond ocorns ond ortichokes oll oround Othens, omazing"
+puts "Ostounding oordvorks, orguobly on oncient onimol, olways ote opples ond ocorns ond ortichokes oll oround Othens, omozing"
