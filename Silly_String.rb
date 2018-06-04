@@ -1,1 +1,1 @@
-puts "Lion!" .reverse.upcase
+puts "Lion" .reverse.upcase
