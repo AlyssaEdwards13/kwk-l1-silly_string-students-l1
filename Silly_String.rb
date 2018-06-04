@@ -1,1 +1,1 @@
-puts "Hello World!" .swapcase
+puts "Hello World!" .length
