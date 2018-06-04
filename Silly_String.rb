@@ -1,0 +1,1 @@
+puts "Lion" .reverse.upcase
