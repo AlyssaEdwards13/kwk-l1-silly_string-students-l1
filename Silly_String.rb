@@ -1,1 +1,1 @@
-puts "Hello World!" .length
+puts "Hello World!" .reverse.upcase
